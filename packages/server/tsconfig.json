@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "../../dist",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowUnreachableCode": false
+  },
+  "include": ["src"]
+  // "references": [{ "path": "./src/controllers/events" }]
+}
